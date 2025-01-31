@@ -148,9 +148,7 @@ Project Link: [https://github.com/MdMoshiurtime/TravelLog-15](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge
 [contributors-url]:https://github.com/MdMoshiurtime/TravelLog-15/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sn2606/TravelLog.svg?style=for-the-badge
 [forks-url]: https://github.com/MdMoshiurtime/TravelLog-15
 [stars-shield]: https://github.com/MdMoshiurtime/TravelLog-15
 [stars-url]: https://github.com/MdMoshiurtime/TravelLog-15
