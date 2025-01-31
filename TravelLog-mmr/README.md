@@ -140,7 +140,6 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
 
 Project Link: [https://github.com/MdMoshiurtime/TravelLog-15](https://github.com/MdMoshiurtime/TravelLog-15)
 
